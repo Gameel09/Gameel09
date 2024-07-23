@@ -31,6 +31,10 @@ In Machine Learning, I excel in developing and deploying models using TensorFlow
 </details>
 
 <details><summary>MLOP's</summary>
+Deep experience with state-of-the-art language models like GPT-4, BERT, and their applications in natural language processing, content generation, and more.
+</details>
+
+<details><summary>MLOP's</summary>
 As an experienced MLOps Engineer, I specialize in integrating machine learning workflows with robust CI/CD pipelines using tools like Apache Airflow. I automate model deployment and ensure scalability using Docker and Kubernetes, optimizing the end-to-end ML lifecycle. Let's connect on LinkedIn to discuss how I can drive efficiency and innovation in deploying machine learning solutions
 </details>
 
