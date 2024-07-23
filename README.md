@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Certainly! Here's an updated bio that includes tools like Airflow and MLflow:
-
 As a dedicated AI/ML Engineer with a passion for harnessing cutting-edge technologies, I bring extensive expertise in developing advanced algorithms and models that drive innovation and solve complex challenges. My career in artificial intelligence and machine learning is distinguished by a commitment to excellence and a proven ability to deliver impactful solutions.
 
 I possess a deep proficiency in a wide array of machine learning frameworks and tools, including Python, PyTorch, TensorFlow, scikit-learn, as well as specialized platforms like Airflow for workflow management and MLflow for managing the ML lifecycle. These tools enable me to streamline development processes, optimize model performance, and ensure reproducibility across projects.
