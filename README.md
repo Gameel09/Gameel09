@@ -24,9 +24,14 @@ With a focus on natural language processing, computer vision, and predictive ana
 I am passionate about pushing the boundaries of AI innovation, constantly exploring new methodologies and staying ahead of industry trends. If you are seeking a skilled AI/ML professional who can translate visionary ideas into practical solutions and drive technological advancement, let's connect on LinkedIn. Together, we can leverage the power of artificial intelligence to create transformative technologies.
 
 ## My Skills 🔭
+
+
+<details><summary>Machine Learning / NLP/ Computer Vision</summary>
+In Machine Learning, I excel in developing and deploying models using TensorFlow and PyTorch, focusing on predictive analytics and pattern recognition. In Computer Vision, I have hands-on experience with deep learning frameworks such as OpenCV, TensorFlow Object Detection API, and PyTorch Vision, applying them to tasks like image classification, object detection, and semantic segmentation. My expertise in NLP includes advanced techniques like sentiment analysis, named entity recognition using libraries like NLTK and spaCy, and text generation with models such as GPT-3. I am passionate about applying these skills to create innovative solutions that push the boundaries of AI capabilities and deliver impactful results.
+</details>
+
 <details><summary>MLOP's</summary>
 As an experienced MLOps Engineer, I specialize in integrating machine learning workflows with robust CI/CD pipelines using tools like Apache Airflow. I automate model deployment and ensure scalability using Docker and Kubernetes, optimizing the end-to-end ML lifecycle. Let's connect on LinkedIn to discuss how I can drive efficiency and innovation in deploying machine learning solutions
-
 </details>
 
 <details><summary>Data modeling & engineering</summary>
